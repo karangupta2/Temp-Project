@@ -12,3 +12,13 @@ Change=> To fix BUG2
 
 Change=> To fix BUG5
 
+Change: to check multiple tracks!
+
+Change: to fix BUG1
+
+Change: to fix BUG4
+
+Change: to fix BUG2
+
+Change: to fix CR1
+
