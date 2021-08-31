@@ -1,3 +1,5 @@
 Add multiple files
 
 Check simple PUSH
+
+Check PULL from REMOTE MASTER to LOCAL MASTER: WI8
