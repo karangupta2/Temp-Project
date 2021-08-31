@@ -23,3 +23,5 @@ Change: to fix BUG2
 Change: to fix CR1
 
 Change to check STASH
+
+Change to check REMOTE MASTER
