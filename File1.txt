@@ -2,11 +2,13 @@ Welcome to Git!
 
 Hello  World of Git!
 
-Change to check multiple tracks!
+Change=> To check multiple tracks!
 
-Change to fix BUG1
+Change=> To fix BUG1
 
-Change to fix BUG4
+Change=> To fix BUG4
 
-Change to fix BUG2
+Change=> To fix BUG2
+
+Change=> To fix BUG5
 
