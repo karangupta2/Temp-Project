@@ -22,3 +22,4 @@ Change: to fix BUG2
 
 Change: to fix CR1
 
+Change to check STASH
