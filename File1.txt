@@ -25,3 +25,6 @@ Change: to fix CR1
 Change to check STASH
 
 Change to check REMOTE MASTER
+
+Change to check WI9: Change on local master to check FETCH before PUSH
+
